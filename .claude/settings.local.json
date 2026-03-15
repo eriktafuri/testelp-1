@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:www.behance.net)",
+      "WebFetch(domain:www.instagram.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:github.com)",
+      "Bash(gh api:*)",
+      "Bash(curl -s \"https://raw.githubusercontent.com/phuryn/pm-skills/main/pm-product-strategy/skills/value-proposition/SKILL.md\")",
+      "Bash(curl -s \"https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/marketing-strategy-pmm/SKILL.md\")",
+      "Bash(curl -s \"https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/skills/copywriting/SKILL.md\")",
+      "Bash(cp \"/Users/eriktafuri/Downloads/benchmark-conteudo-imobiliario_SKILL.md\" \"/Users/eriktafuri/Documents/Projetos | Claude/.claude/skills/benchmark-conteudo-imobiliario/SKILL.md\")",
+      "Bash(cp \"/Users/eriktafuri/Downloads/criacao-reels-virais_SKILL.md\" \"/Users/eriktafuri/Documents/Projetos | Claude/.claude/skills/criacao-reels-virais-arrive/SKILL.md\")",
+      "Bash(cp \"/Users/eriktafuri/Downloads/ideias-infinitas-conteudo-arrive_SKILL.md\" \"/Users/eriktafuri/Documents/Projetos | Claude/.claude/skills/ideias-infinitas-conteudo-arrive/SKILL.md\")",
+      "Bash(cp \"/Users/eriktafuri/Downloads/inteligencia-de-mercado_SKILL.md\" \"/Users/eriktafuri/Documents/Projetos | Claude/.claude/skills/inteligencia-de-mercado-imobiliario/SKILL.md\")",
+      "Bash(cp \"/Users/eriktafuri/Downloads/voz-e-tom-arrive_SKILL.md\" \"/Users/eriktafuri/Documents/Projetos | Claude/.claude/skills/voz-e-tom-arrive/SKILL.md\")",
+      "Bash(cp \"/Users/eriktafuri/Downloads/historia-erik-arrive.md\" \"/Users/eriktafuri/Documents/Projetos | Claude/agents/references/historia-erik-arrive.md\")"
+    ]
+  }
+}
